@@ -1,2 +1,2 @@
 # location_checker
-Location Checker
+How to check your location within browser.
